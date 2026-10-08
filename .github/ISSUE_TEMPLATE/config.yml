@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security problem privately
+    url: https://github.com/Deviops-app/.github/blob/main/SECURITY.md
+    about: Please do not open a public issue for a security problem. Email admin@deviops.app.
+  - name: DEVI website
+    url: https://deviops.app
+    about: Downloads, release notes, and feature requests.
