@@ -1,4 +1,4 @@
-<p align="center"><img src="devi-banner.svg" alt="DEVI" width="600"></p>
+<p align="center"><img src="devi-banner.png" alt="DEVI" width="600"></p>
 
 ## DEVI
 
