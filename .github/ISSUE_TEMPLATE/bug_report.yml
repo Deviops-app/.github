@@ -1,0 +1,41 @@
+name: Bug report
+description: Something did not work the way it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this.
+        **Do not attach real evidence, case material, or personal data.** A synthetic file or a description is enough.
+        For a security problem, email admin@deviops.app instead.
+  - type: input
+    id: version
+    attributes:
+      label: Tool and version
+      placeholder: "DEVI Validate 1.0.3 (or Decrypt / Registry)"
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 23H2"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead
+      description: Include any error text. Remove case numbers and names before pasting.
+    validations:
+      required: true
