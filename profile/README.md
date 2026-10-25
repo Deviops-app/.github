@@ -2,7 +2,7 @@
 
 ## DEVI
 
-**Digital Evidence, Vision & Innovation.** Open source tools for digital forensics, built by experienced digital forensic examiners.
+**Intelligence by Design.** Open source tools for digital forensics, built by experienced digital forensic examiners.
 
 Every DEVI tool is built around a few rules: work offline, open evidence read-only, say plainly what a result can and cannot show, and publish a SHA-256 for every download so anyone can check it.
 
